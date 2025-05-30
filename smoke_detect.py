@@ -125,3 +125,4 @@ port_close(ser)
 cap.release()
 # out.release()
 cv2.destroyAllWindows()
+cv2
