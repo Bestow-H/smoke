@@ -1,0 +1,2 @@
+# smoke
+smoking detect
