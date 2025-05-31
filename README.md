@@ -14,3 +14,7 @@ smoking detect
     YOLO v11
 
     此外，需要引入python的serial库
+
+
+#### 我是帅哥
+gut
