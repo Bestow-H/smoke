@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<!-- 模型路径 -->
+<engineModel>/home/robo/best.engine</engineModel>
+<!-- 置信度 -->
+<confidenceThreshold>0.3</confidenceThreshold>
+<!-- nms -->
+<nmsThreshold>0.4</nmsThreshold>
+
+</opencv_storage>
